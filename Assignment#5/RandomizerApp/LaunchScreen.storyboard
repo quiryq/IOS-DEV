@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch">
+  <scenes>
+    <scene sceneID="LS_scene">
+      <objects>
+        <viewController id="LS_vc" sceneMemberID="viewController">
+          <view key="view" contentMode="scaleToFill" id="LS_view"/>
+        </viewController>
+      </objects>
+    </scene>
+  </scenes>
+</document>
